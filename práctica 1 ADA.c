@@ -1,10 +1,3 @@
-/******************************************************************************
-
-                            Online C Debugger.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Debug" button to debug program.
-
-*******************************************************************************/
 
 #include <stdio.h>
 
